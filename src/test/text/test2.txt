@@ -1,0 +1,4 @@
+Important! To run, you need python version 3. Check the installed version on
+you can download the version using the command.
+
+When writing C programs, it is very important to watch for memory leaks. To do this the _valgrind_ utility is quite often used in Unix-like operating systems.
